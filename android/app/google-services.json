@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21895536568",
+    "project_id": "emart-shopping-app",
+    "storage_bucket": "emart-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21895536568:android:5248b625324264d33f794d",
+        "android_client_info": {
+          "package_name": "com.example.emart_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ3BVctaqUwjF-asX_BnCbLdAD5MfpYuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
